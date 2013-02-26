@@ -1,4 +1,1 @@
-GeoTrellis-features-demo
-========================
-
-Features demo for GeoTrellis
+Template for doing Weighted Overlay of other GeoTrellis like things
